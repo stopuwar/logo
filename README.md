@@ -1,0 +1,2 @@
+# logo
+StopUWar project logo
